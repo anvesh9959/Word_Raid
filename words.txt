@@ -1,0 +1,23 @@
+word_bank = [
+    "apple",
+    "banana",
+    "orange",
+    "grape",
+    "strawberry",
+    "melon",
+    "cherry",
+    "pineapple",
+    "kiwi",
+    "blueberry",
+    "peach",
+    "pear",
+    "plum",
+    "watermelon",
+    "raspberry",
+    "blackberry",
+    "lemon",
+    "lime",
+    "mango",
+    "apricot",
+    # Add more words as needed
+]
