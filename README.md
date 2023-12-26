@@ -1,3 +1,4 @@
+![game](https://github.com/anvesh9959/Word_Raid/assets/117638783/a76f3bf9-7f51-4da4-947e-da16ea6b9dea)
 Word Raider is a simple interactive Python word guessing game. The player's objective is to guess a randomly selected word from a word bank within a limited number of turns.
 
 ***************************  How to Play  ***************
